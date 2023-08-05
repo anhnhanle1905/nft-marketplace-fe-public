@@ -1,0 +1,6 @@
+export const CloseIcon = '/icons/close-icon.svg'
+export const SuccessIcon = '/icons/success.svg'
+export const CopyIcon = '/icons/copy.svg'
+export const FavouriteIcon = '/icons/favourite.svg'
+export const Eye = '/icons/eye.svg'
+export const EyeSlash = '/icons/eye-slash.svg'
